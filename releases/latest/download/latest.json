@@ -1,0 +1,15 @@
+{
+  "version": "0.1.0",
+  "notes": "Masaüstü uygulama güncellemesi.\n\nUygulama içinden **Güncelle ve yeniden başlat** ile kurulabilir.",
+  "pub_date": "2026-07-26T22:20:39.756Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTDY0ajNhaUk2c1hyV09wdlpZanhpZnZVRVROekdLb25oeTZBd0hMaVVodzVpZ3dDc2IzcUx1SW5DMXRpM21iVmVVWnNOcDI1NmR2VUlQMVJtL0gzYUZxL01HQzZSVGdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MTA0NDM1CWZpbGU6U2hpZnRCcmlnYWRlXzAuMS4wX3g2NC1zZXR1cC5leGUKSG5XbzlmdnpNN3B3OXhReXpvTmsxTXRJUSt1bVc4QkFOR0lESnFnNUIzcFRZZ1B2OE5ERGxEb0NlZlZUMmZqRHRMU1JQVk9ybUVXTXdBVmxYT3dMQXc9PQo=",
+      "url": "https://api.github.com/repos/eaykinn/vardiya-proje/releases/assets/490739664"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTDY0ajNhaUk2c1hyV09wdlpZanhpZnZVRVROekdLb25oeTZBd0hMaVVodzVpZ3dDc2IzcUx1SW5DMXRpM21iVmVVWnNOcDI1NmR2VUlQMVJtL0gzYUZxL01HQzZSVGdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MTA0NDM1CWZpbGU6U2hpZnRCcmlnYWRlXzAuMS4wX3g2NC1zZXR1cC5leGUKSG5XbzlmdnpNN3B3OXhReXpvTmsxTXRJUSt1bVc4QkFOR0lESnFnNUIzcFRZZ1B2OE5ERGxEb0NlZlZUMmZqRHRMU1JQVk9ybUVXTXdBVmxYT3dMQXc9PQo=",
+      "url": "https://api.github.com/repos/eaykinn/vardiya-proje/releases/assets/490739664"
+    }
+  }
+}
